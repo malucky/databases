@@ -1,6 +1,6 @@
-CREATE DATABASE raybenchat5;
+CREATE DATABASE raybenchat;
 
-USE raybenchat5;
+USE raybenchat;
 
 -- CREATE TABLE messages (
 --  /* Describe your table here.*/
